@@ -1,3 +1,4 @@
+//This program creates a Binary Tree from an array and finds its height.
 #include <stdio.h>
 #include <stdlib.h>
 
